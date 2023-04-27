@@ -1,5 +1,7 @@
-//To find the volume of a box
+//To find the volume of a cuboid
+
 //Taking l, b , h in double data type as they are big and having decimal places.
+
 class Box{
     double height;
     double lenght;
